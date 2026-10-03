@@ -1,6 +1,3 @@
-Here is your documentation for the battlefield static path planning project, formatted into a clean, professional, copy-pasteable Markdown template optimized for your GitHub `README.md` file.
-
-```markdown
 # UGV Shortest-Path Planning with Static Obstacles using A*
 
 ## 1. Problem Statement
